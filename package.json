@@ -1,0 +1,13 @@
+{
+    "name": "mtp_thai",
+    "version": "1.0.0",
+    "description": "This package can be imported directly into runtime as a standalone Puppet",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ai-foundation/mtp_thai.git"
+    },
+    "author": "",
+    "homepage": "https://github.com/ai-foundation/mtp_thai#readme",
+    "dependencies": {},
+    "files": ["package.json", "Assets", "Plugin", "Mindtwin"]
+}
